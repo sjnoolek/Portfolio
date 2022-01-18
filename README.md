@@ -3,4 +3,4 @@
 - Period tracker mobile-application, 
 - Student registration web-application, and 
 - Market for Auction System web-Application.
-  Thank you
+
